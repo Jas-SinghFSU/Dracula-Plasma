@@ -65,6 +65,7 @@ I am using Dolphin as my File Explorer. I believe Kvantum is responsible for set
 
 To get the toolbar to show on the left, you can right click and uncheck 'Lock Toolbar Positions' and then drag it to the left of your screen. Don't forget to lock it again.
 
+You can also use some of my dolphin settings by putting `dolphinrc` in `~/.config`.
 ## Neovim
 
 My Neovim config is provided in the `nvim` directory. You can simply paste that directory into your `~/.config` directory if you want to use my neovim config.
