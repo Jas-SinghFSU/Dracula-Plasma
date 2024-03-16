@@ -33,7 +33,7 @@ My system tray has all icons set to `Always Hidden` except for Audio Volume, Bat
 
 #### Application Menu
 
-The Application Menu icon is also provided in the `icons` directory.
+The Application Menu icon is also provided in the `dock_icons` directory.
 
 #### Virtual Desktop Bar
 
