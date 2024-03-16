@@ -22,7 +22,7 @@ I have it set to Floating and Opaque in the panel settings.
 
 #### System Tray
 
-To get the Icons that I have in my System Tray, you can paste the contents of the `icons` directory into `~/.local/share/plasma/desktoptheme/Dracula/icons/`, assuming you've installed the Dracula global theme.
+To get the Icons that I have in my System Tray, you can paste the contents of the `icons` directory into `~/.local/share/plasma/desktoptheme/Dracula/icons/`, assuming you've installed the Dracula global theme. These icons are most compatible if you set your icon size to `22` in KDE Settings > Appearance > Icons > Configure Icon Sizes > Main Toolbar.
 
 These icons are based on [Utterly Round](https://store.kde.org/p/1901768) icons so show some love to the original creator by upvoting.
 
