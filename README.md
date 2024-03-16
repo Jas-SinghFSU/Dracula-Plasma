@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="https://i.redd.it/ixuiwdvyhgoc1.png">
+</p>
 ## Desktop Environment
 ### Fonts
 
