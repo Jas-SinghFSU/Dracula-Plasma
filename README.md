@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://i.redd.it/ixuiwdvyhgoc1.png">
+</p>
+
 ## Desktop Environment
 ### Fonts
 
@@ -10,7 +14,8 @@ Install this [global theme](https://store.kde.org/p/1370871) and also install [K
 
 For the Icons theme, install [Tela Icons Theme](https://store.kde.org/p/1279924/) and select the Dracula variant.
 
-For the Dock Icons, they are custom made for what I use; I've provided some in the `dock_icons` directory.
+For the Dock Icons, they are custom made for what I use; I've provided some in the `dock_icons` directory. My custom icons are based on [Papyrus](https://store.kde.org/p/1166289).
+
 You can use [this tool](https://svgcolor.com/) to change the color scheme of your icons to the [Dracula color scheme](https://draculatheme.com/contribute) (scroll down for the pallette) for apps that you use.
 ### Plasma Panel
 
@@ -22,7 +27,7 @@ I have it set to Floating and Opaque in the panel settings.
 
 #### System Tray
 
-To get the Icons that I have in my System Tray, you can paste the contents of the `icons` directory into `~/.local/share/plasma/desktoptheme/Dracula/icons/`, assuming you've installed the Dracula global theme.
+To get the Icons that I have in my System Tray, you can paste the contents of the `icons` directory into `~/.local/share/plasma/desktoptheme/Dracula/icons/`, assuming you've installed the Dracula global theme. These icons are most compatible if you set your icon size to `22` in KDE Settings > Appearance > Icons > Configure Icon Sizes > Main Toolbar.
 
 These icons are based on [Utterly Round](https://store.kde.org/p/1901768) icons so show some love to the original creator by upvoting.
 
@@ -32,7 +37,7 @@ My system tray has all icons set to `Always Hidden` except for Audio Volume, Bat
 
 #### Application Menu
 
-The Application Menu icon is also provided in the `icons` directory.
+The Application Menu icon is also provided in the `dock_icons` directory.
 
 #### Virtual Desktop Bar
 
