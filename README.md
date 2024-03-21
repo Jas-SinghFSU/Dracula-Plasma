@@ -12,11 +12,15 @@ My plasma font is `Ubuntu Nerd Font Propo Med`
 
 Install this [global theme](https://store.kde.org/p/1370871) and also install [Kvantum](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) to set Dracula as the Kvantum theme.
 
-For the Icons theme, install [Tela Icons Theme](https://store.kde.org/p/1279924/) and select the Dracula variant.
+If you want my exact icons, then simply unzip the `Tela-dracula.zip` into the `~/.local/share/icons/` directory. Then in Plasma Settings > Appearance > Icons, select `Tela dracula`.
 
-For the Dock Icons, they are custom made for what I use; I've provided some in the `dock_icons` directory. My custom icons are based on [Papyrus](https://store.kde.org/p/1166289).
+If you want the default Tela Dracula icons, then install [Tela Icons Theme](https://store.kde.org/p/1279924/) and select the Dracula variant.
+
+For the Dock Icons, they are custom made for what I use; I've provided some in the `dock_icons` directory. My custom icons are based on [Papyrus](https://store.kde.org/p/1166289). These are
+already included in the `Tela dracula.zip`, you don't need to do anything else.
 
 You can use [this tool](https://svgcolor.com/) to change the color scheme of your icons to the [Dracula color scheme](https://draculatheme.com/contribute) (scroll down for the pallette) for apps that you use.
+
 ### Plasma Panel
 
 The layout of my panel is:
