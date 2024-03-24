@@ -116,7 +116,7 @@ Put the `.zshrc` in your `~` aka `$HOME` directory to use my Zsh config... it's 
 
 ### Oh-my-posh
 
-Put the `OhMyPosh` directory in your `~/.configs` directory to use my Oh My Posh config.
+Put the `OhMyPosh` directory in your `~/.config` directory to use my Oh My Posh config.
 
 ## Microsoft Edge (sue me)
 
