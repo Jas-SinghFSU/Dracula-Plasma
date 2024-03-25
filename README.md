@@ -2,6 +2,8 @@
     <img src="https://i.redd.it/ixuiwdvyhgoc1.png">
 </p>
 
+# THIS IS ONLY COMPATIBLE WITH KDE PLASMA 5
+
 ## Desktop Environment
 ### Fonts
 
